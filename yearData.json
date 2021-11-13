@@ -1,0 +1,536 @@
+{
+    "01": {
+        "TotalSales": 1421330,
+        "Death by Chocolate": {
+            "sale": 222840,
+            "totalQty": 1238,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 413
+        },
+        "Cake Fudge": {
+            "sale": 265650,
+            "totalQty": 1771,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 594
+        },
+        "Vanilla Double Scoop": {
+            "sale": 168080,
+            "totalQty": 2101,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 676
+        },
+        "Butterscotch Single Scoop": {
+            "sale": 82440,
+            "totalQty": 1374,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 432
+        },
+        "Vanilla Single Scoop": {
+            "sale": 69900,
+            "totalQty": 1398,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 455
+        },
+        "Hot Chocolate Fudge": {
+            "sale": 320760,
+            "totalQty": 2673,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 882
+        },
+        "Chocolate Europa Double Scoop": {
+            "sale": 10400,
+            "totalQty": 104,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 32
+        },
+        "Caramel Crunch Single Scoop": {
+            "sale": 11760,
+            "totalQty": 168,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 52
+        },
+        "Cafe Caramel": {
+            "sale": 120160,
+            "totalQty": 751,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 243
+        },
+        "Pista Single Scoop": {
+            "sale": 6780,
+            "totalQty": 113,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 40
+        },
+        "Trilogy": {
+            "sale": 13600,
+            "totalQty": 85,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 25
+        },
+        "Almond Fudge": {
+            "sale": 10200,
+            "totalQty": 68,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 29
+        },
+        "Caramel Crunch Double Scoop": {
+            "sale": 13800,
+            "totalQty": 138,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 47
+        },
+        "Dry Fruit Double Scoop": {
+            "sale": 16380,
+            "totalQty": 182,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 58
+        },
+        "Dry Fruit Single Scoop": {
+            "sale": 5160,
+            "totalQty": 86,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 31
+        },
+        "Rocky Road Single Scoop": {
+            "sale": 6650,
+            "totalQty": 133,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 44
+        },
+        "Mint Fudge": {
+            "sale": 7800,
+            "totalQty": 65,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 22
+        },
+        "Fig and Honey Double Scoop": {
+            "sale": 9000,
+            "totalQty": 100,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 40
+        },
+        "Chocolate Europa Single Scoop": {
+            "sale": 8120,
+            "totalQty": 116,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 38
+        },
+        "Butterscotch Double Scoop": {
+            "sale": 9990,
+            "totalQty": 111,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 35
+        },
+        "Fig and Honey Single Scoop": {
+            "sale": 5880,
+            "totalQty": 98,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 30
+        },
+        "Pista Double Scoop": {
+            "sale": 12420,
+            "totalQty": 138,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 44
+        },
+        "Banana Split": {
+            "sale": 10220,
+            "totalQty": 73,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 23
+        },
+        "Rocky Road Double Scoop": {
+            "sale": 4640,
+            "totalQty": 58,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 19
+        },
+        "Dew Drop Sundae": {
+            "sale": 8700,
+            "totalQty": 58,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 22
+        }
+    },
+    "02": {
+        "TotalSales": 1422350,
+        "Trilogy": {
+            "sale": 10880,
+            "totalQty": 68,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 21
+        },
+        "Death by Chocolate": {
+            "sale": 231660,
+            "totalQty": 1287,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 440
+        },
+        "Hot Chocolate Fudge": {
+            "sale": 316320,
+            "totalQty": 2636,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 851
+        },
+        "Cafe Caramel": {
+            "sale": 107200,
+            "totalQty": 670,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 214
+        },
+        "Cake Fudge": {
+            "sale": 281700,
+            "totalQty": 1878,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 636
+        },
+        "Butterscotch Single Scoop": {
+            "sale": 76380,
+            "totalQty": 1273,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 422
+        },
+        "Vanilla Single Scoop": {
+            "sale": 63450,
+            "totalQty": 1269,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 426
+        },
+        "Vanilla Double Scoop": {
+            "sale": 166560,
+            "totalQty": 2082,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 684
+        },
+        "Fig and Honey Double Scoop": {
+            "sale": 14130,
+            "totalQty": 157,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 45
+        },
+        "Dry Fruit Double Scoop": {
+            "sale": 13140,
+            "totalQty": 146,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 49
+        },
+        "Dry Fruit Single Scoop": {
+            "sale": 10440,
+            "totalQty": 174,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 54
+        },
+        "Rocky Road Single Scoop": {
+            "sale": 6850,
+            "totalQty": 137,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 45
+        },
+        "Chocolate Europa Single Scoop": {
+            "sale": 10500,
+            "totalQty": 150,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 49
+        },
+        "Caramel Crunch Double Scoop": {
+            "sale": 12800,
+            "totalQty": 128,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 42
+        },
+        "Chocolate Europa Double Scoop": {
+            "sale": 15100,
+            "totalQty": 151,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 45
+        },
+        "Butterscotch Double Scoop": {
+            "sale": 10890,
+            "totalQty": 121,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 41
+        },
+        "Pista Single Scoop": {
+            "sale": 8280,
+            "totalQty": 138,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 39
+        },
+        "Fig and Honey Single Scoop": {
+            "sale": 9360,
+            "totalQty": 156,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 57
+        },
+        "Mint Fudge": {
+            "sale": 6840,
+            "totalQty": 57,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 17
+        },
+        "Banana Split": {
+            "sale": 8120,
+            "totalQty": 58,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 20
+        },
+        "Caramel Crunch Single Scoop": {
+            "sale": 5810,
+            "totalQty": 83,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 27
+        },
+        "Pista Double Scoop": {
+            "sale": 14400,
+            "totalQty": 160,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 50
+        },
+        "Rocky Road Double Scoop": {
+            "sale": 5040,
+            "totalQty": 63,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 22
+        },
+        "Dew Drop Sundae": {
+            "sale": 7050,
+            "totalQty": 47,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 16
+        },
+        "Almond Fudge": {
+            "sale": 9450,
+            "totalQty": 63,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 20
+        }
+    },
+    "03": {
+        "TotalSales": 1739590,
+        "Hot Chocolate Fudge": {
+            "sale": 372000,
+            "totalQty": 3100,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 1049
+        },
+        "Pista Double Scoop": {
+            "sale": 14940,
+            "totalQty": 166,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 51
+        },
+        "Death by Chocolate": {
+            "sale": 305280,
+            "totalQty": 1696,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 551
+        },
+        "Cake Fudge": {
+            "sale": 361200,
+            "totalQty": 2408,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 801
+        },
+        "Vanilla Single Scoop": {
+            "sale": 84100,
+            "totalQty": 1682,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 543
+        },
+        "Dry Fruit Double Scoop": {
+            "sale": 16650,
+            "totalQty": 185,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 57
+        },
+        "Vanilla Double Scoop": {
+            "sale": 176320,
+            "totalQty": 2204,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 747
+        },
+        "Chocolate Europa Double Scoop": {
+            "sale": 17700,
+            "totalQty": 177,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 60
+        },
+        "Fig and Honey Single Scoop": {
+            "sale": 8940,
+            "totalQty": 149,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 53
+        },
+        "Butterscotch Single Scoop": {
+            "sale": 100560,
+            "totalQty": 1676,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 532
+        },
+        "Cafe Caramel": {
+            "sale": 122880,
+            "totalQty": 768,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 250
+        },
+        "Caramel Crunch Double Scoop": {
+            "sale": 16700,
+            "totalQty": 167,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 59
+        },
+        "Butterscotch Double Scoop": {
+            "sale": 12870,
+            "totalQty": 143,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 45
+        },
+        "Fig and Honey Double Scoop": {
+            "sale": 14310,
+            "totalQty": 159,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 53
+        },
+        "Mint Fudge": {
+            "sale": 10200,
+            "totalQty": 85,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 26
+        },
+        "Dry Fruit Single Scoop": {
+            "sale": 11460,
+            "totalQty": 191,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 62
+        },
+        "Banana Split": {
+            "sale": 10360,
+            "totalQty": 74,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 27
+        },
+        "Trilogy": {
+            "sale": 13600,
+            "totalQty": 85,
+            "minOrder": 2,
+            "maxOrder": 5,
+            "noOfOrder": 26
+        },
+        "Chocolate Europa Single Scoop": {
+            "sale": 12180,
+            "totalQty": 174,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 58
+        },
+        "Pista Single Scoop": {
+            "sale": 9180,
+            "totalQty": 153,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 45
+        },
+        "Dew Drop Sundae": {
+            "sale": 13200,
+            "totalQty": 88,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 34
+        },
+        "Rocky Road Single Scoop": {
+            "sale": 7500,
+            "totalQty": 150,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 56
+        },
+        "Caramel Crunch Single Scoop": {
+            "sale": 12250,
+            "totalQty": 175,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 56
+        },
+        "Almond Fudge": {
+            "sale": 10650,
+            "totalQty": 71,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 22
+        },
+        "Rocky Road Double Scoop": {
+            "sale": 4560,
+            "totalQty": 57,
+            "minOrder": 1,
+            "maxOrder": 5,
+            "noOfOrder": 18
+        }
+    }
+}
